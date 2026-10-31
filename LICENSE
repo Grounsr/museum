@@ -1,57 +1,62 @@
 Copyright © 2026 Сайдалиев Алиакбар (Saidaliev Aliakbar)
 Ҳамаи ҳуқуқҳо ҳифз шудаанд. Все права защищены. All rights reserved.
 
-«Нассоҷии Тоҷикистон / Текстиль Таджикистана» — интерактивный киоск зала лёгкой промышленности
+«Таърихи саноати Тоҷикистон / История промышленности Таджикистана / History of Tajikistan's Industry, 1924–2026»
+— интерактивный киоск Музея развития промышленности Таджикистана
 
 
 ТОҶИКӢ
 
-Ин барнома — коди он, тарҳ, сохтор, матнҳо, графика ва тартиби пешниҳоди маълумот —
-моликияти зеҳнии муаллиф Сайдалиев Алиакбар мебошад.
+Ин барнома — коди он, тарҳ, сохтор, матнҳои се забон, графика, харитаҳо ва тартиби
+пешниҳоди маълумот — моликияти зеҳнии муаллиф Сайдалиев Алиакбар мебошад.
 
 Иҷозат дода мешавад танҳо:
   • тамошои барнома тавассути саҳифаи нашршуда;
   • намоиши он дар экспозитсияи Осорхонаи рушди саноати Тоҷикистон.
 
-Бе иҷозати хаттии муаллиф манъ аст: нусхабардорӣ, тағйир додан, кушодани рамз
-(декомпилятсия, деобфускатсия), паҳн кардан, фурӯхтан, ҷойгир кардан дар сайтҳо ва
-киоскҳои дигар, инчунин истифодаи ҳар қисми барнома дар лоиҳаҳои дигар.
+Бе иҷозати хаттии муаллиф манъ аст: нусхабардорӣ, тағйир додан, барқарор кардани рамзи
+ибтидоӣ, паҳн кардан, фурӯхтан, ҷойгир кардан дар сайтҳо ва киоскҳои дигар, инчунин
+истифодаи ҳар қисми барнома дар лоиҳаҳои дигар.
 
-Маълумоти расмӣ (Стратегияи миллӣ, омор) аз манбаъҳои кушода гирифта шудааст;
-ҳуқуқи муаллиф ба тарҳ, сохтор ва коди барнома тааллуқ дорад.
+Маълумоти расмӣ (омор, хабарҳо, санадҳо) аз манбаъҳои кушода гирифта шудааст; ҳуқуқ ба
+аксҳо ба муаллифон ва манбаъҳои дар барнома зикршуда тааллуқ дорад. Ҳуқуқи муаллифи
+барнома ба тарҳ, сохтор, матнҳо, интихоб ва коди барнома тааллуқ дорад.
 
 
 РУССКИЙ
 
-Программа — её код, дизайн, структура, тексты, графика и способ подачи данных —
-является интеллектуальной собственностью автора, Сайдалиева Алиакбара.
+Программа — её код, дизайн, структура, тексты на трёх языках, графика, карты и способ
+подачи данных — является интеллектуальной собственностью автора, Сайдалиева Алиакбара.
 
 Разрешается только:
   • просмотр программы через опубликованную страницу;
   • её демонстрация в экспозиции Музея развития промышленности Таджикистана.
 
-Без письменного разрешения автора запрещается: копирование, изменение, вскрытие
-защиты (декомпиляция, деобфускация), распространение, продажа, размещение на других
-сайтах и киосках, а также использование любой части программы в других проектах.
+Без письменного разрешения автора запрещается: копирование, изменение, восстановление
+исходного кода, распространение, продажа, размещение на других сайтах и киосках, а также
+использование любой части программы в других проектах.
 
-Официальные данные (Национальная стратегия, статистика) взяты из открытых источников;
-авторское право распространяется на дизайн, структуру и код программы.
+Официальные данные (статистика, сообщения, документы) взяты из открытых источников; права
+на фотографии принадлежат авторам и источникам, указанным в программе. Авторское право
+автора программы распространяется на дизайн, структуру, тексты, подбор материала и код.
 
 
 ENGLISH
 
-This software — its code, design, structure, texts, graphics and presentation of data —
-is the intellectual property of its author, Saidaliev Aliakbar.
+This software — its code, design, structure, trilingual texts, graphics, maps and
+presentation of data — is the intellectual property of its author, Saidaliev Aliakbar.
 
 Permission is granted only to view the software through the published page and to
 display it in the exhibition of the Museum of Industrial Development of Tajikistan.
 
-No licence is granted to copy, modify, reverse-engineer (decompile, deobfuscate),
-distribute, sell, re-host or reuse any part of this software without the author's
-prior written permission.
+No licence is granted to copy, modify, reconstruct the source code, distribute, sell,
+re-host or reuse any part of this software without the author's prior written permission.
 
-Official data (the National Strategy, statistics) come from public sources; copyright
-covers the design, structure and code of the software.
+Official data (statistics, news reports, documents) come from public sources; rights in
+the photographs belong to the authors and sources credited in the software. The author's
+copyright covers the design, structure, texts, selection of material and code.
+
+Third-party components (fonts, map outlines) keep their own licences — see THIRD_PARTY_NOTICES.md.
 
 
 Разрешения / Permissions: GitHub @Grounsr
