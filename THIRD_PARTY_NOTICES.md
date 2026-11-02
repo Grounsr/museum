@@ -104,3 +104,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 Контуры Таджикистана, соседних стран и карты мира — Natural Earth (общественное достояние), через пакет
 world-atlas; проекция рассчитана заранее, в киоске нет картографических библиотек.
 Map outlines: Natural Earth (public domain) via world-atlas; projected at build time.
+
+## Фотографии · Photographs
+
+Фотографии предприятий в папке `ph/` — пресс-служба Президента Республики Таджикистан (https://president.tj).
+Права на снимки принадлежат источнику; в киоске под каждым снимком указаны источник и дата. Авторское право
+Сайдалиева Алиакбара на программу на эти снимки не распространяется. Архивные фотографии хроники взяты из
+презентации «Таърихи саноати Тоҷикистон 1924–2026» и принадлежат их авторам и источникам, указанным в киоске.
+
+Enterprise photographs in `ph/`: Press service of the President of the Republic of Tajikistan (president.tj).
+Rights remain with the source, credited under every photo; they are not covered by the author's copyright in the software.
+
